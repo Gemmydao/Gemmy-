@@ -1,0 +1,7 @@
+{
+  "name": "ScanBizData - Trích xuất Danh Bạ",
+  "description": "Ứng dụng chụp ảnh danh bạ doanh nghiệp và tự động trích xuất thông tin vào Google Sheets sử dụng Gemini AI.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
